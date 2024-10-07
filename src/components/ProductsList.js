@@ -7,7 +7,7 @@ const ProductsList = ({ products, onEdit, onDelete }) => {
       <ul>
         {products.map((product) => (
           <li key={product.id}>
-            {product.name} - {product.description}
+            {product.name} - {product.description} - {product.price}
             <button onClick={() => onEdit(product)}>Edit</button>
             <button onClick={() => onDelete(product.id)}>Delete</button>
           </li>

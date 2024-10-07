@@ -5,6 +5,7 @@ const ProductForm = ({ addProduct, editProduct, currentProduct }) => {
     id: null,
     name: "",
     description: "",
+    price: "",
   });
 
   useEffect(() => {
