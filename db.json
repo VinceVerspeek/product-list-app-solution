@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Een kilo kaas",
+      "description": "We doen de boodschappen"
+    },
+    {
+      "id": "2",
+      "name": "Een liter melk",
+      "description": "Elke dag weer naar de supermarkt"
+    },
+    {
+      "id": "3",
+      "name": "Een blikje soep",
+      "description": "Je weet dat ik niet kiezen kan"
+    }
+  ]
+}
